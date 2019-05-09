@@ -1,0 +1,20 @@
+a = 7
+b = 24
+c = 34
+d = 44
+e = 54
+f = 64
+g = 74
+h = 94
+i = 104
+j = 857142
+print(b / a)
+print(c / a)
+print(d / a)
+print(e / a)
+print(f / a)
+print(g / a)
+print(h / a)
+print(i / a)
+print(j / a)
+#;-)
